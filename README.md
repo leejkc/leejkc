@@ -10,60 +10,29 @@
   ░ ░      ░      ░      ░        ░ ░ ░ ▒  ░ ░ ░ ▒  ░ ░░ ░ 
     ░  ░   ░  ░   ░  ░   ░ ░          ░ ░      ░ ░  ░  ░   
 ```              
-## 
-
 #
-```
- _______                    __                  __ 
-|    ___|.----.-----.-----.|  |_.-----.-----.--|  |
-|    ___||   _|  _  |     ||   _|  -__|     |  _  |
-|___|    |__| |_____|__|__||____|_____|__|__|_____|
-```
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
   </a>
 </p>
 
-# 
-```
- ______              __                   __ 
-|   __ \.---.-.----.|  |--.-----.-----.--|  |
-|   __ <|  _  |  __||    <|  -__|     |  _  |
-|______/|___._|____||__|__|_____|__|__|_____|
-```
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,kotlin,java,js,ts,lua,py" />
   </a>
 </p>
 
-# 
-```
- _______ __   __               
-|       |  |_|  |--.-----.----.
-|   -   |   _|     |  -__|   _|
-|_______|____|__|__|_____|__|  
-```
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,cmake,gradle,pytorch,arduino,androidstudio,nodejs,npm,vite,pycharm,unity,visualstudio,vscode" />
   </a>
 </p>
 
-#
-```
- _______                          __   __              
-|       |.-----.-----.----.---.-.|  |_|__|.-----.-----.
-|   -   ||  _  |  -__|   _|  _  ||   _|  ||     |  _  |
-|_______||   __|_____|__| |___._||____|__||__|__|___  |
-         |__|                                   |_____|
- _______               __                              
-|     __|.--.--.-----.|  |_.-----.--------.-----.      
-|__     ||  |  |__ --||   _|  -__|        |__ --|      
-|_______||___  |_____||____|_____|__|__|__|_____|      
-         |_____|                                       
-```
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,windows,ubuntu,bsd,mint" />
